@@ -1,11 +1,3 @@
-# oop-4-inheritance_2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  7 20:02:43 2023
-
-@author: ascom
-"""
-
 #Adding properties to child class
 
 # parent class
